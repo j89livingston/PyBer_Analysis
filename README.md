@@ -16,11 +16,11 @@ Pyber has giving us an assignment to create a summary of the ride sharing data b
 
 ## Resources:
 * Data Source: ride_data.csv, city_data.csv
-* Software: Python 3.8.3, Matplotlib, Jupyer Lab, Visual Studio Code 1.46.0
+* Software: Python 3.8.3, Matplotlib, Jupyter Lab, Visual Studio Code 1.46.0
 
 ## **Results:**
 
-After collecting and organizing the total rides, driver, fares, averages of fares and drivers, and total fares by city, we were able to come to a few concolusions:
+After collecting and organizing the total rides, driver, fares, averages of fares and drivers, and total fares by city, we were able to come to a few conclusions:
 
 ### **Total Rides**
 
@@ -67,7 +67,7 @@ This is the total weekly fare of city types between the dates of **1/1/2019** an
 
 # **Summary**
 
-After carefully analysing the dataframes and charts, we can make some upcomming predictions based off of the information we have currently been given.
+After carefully analysing the dataframes and charts, we can make some upcoming predictions based off of the information we have currently been given.
 1. Urban cities should increase the fare amount. 68.4% of our rides come from urban cities but the average fair per ride and driver are lower than other city types.
 
 2. Suburban cities could hire more drivers. They make up 16.5% of the total drivers but almost half the total fares. More drivers would help keep up with the demand.
