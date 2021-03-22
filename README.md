@@ -26,19 +26,19 @@ After collecting and organizing the total rides, driver, fares, averages of fare
 
 As we can see, urban cities have **68.4%** most total rides, more than doubling the suburban cities **26.3%**, and towering over the rural cities **5.3%**.
 
-![fig6.png](analysis/fig6.png)
+![6Fig6.png](analysis/6Fig6.png)
 
 ### **Total Drivers**
 
 The urban cities holds the majority with **80.9%** of the drivers, while the suburban cities **16.5%** and rural cities **2.6%** have a much smaller part of the business.
 
-![fig7.png](analysis/fig7.png)
+![7Fig7.png](analysis/7Fig7.png)
 
 ### **Total Fares**
 
 Again, urban cities earn the highest with **62.7%**, suburban cities with **30.5%**, and rural cities with **6.8%**.
 
-![fig5.png](analysis/fig5.png)
+![5Fig5.png](analysis/5Fig5.png)
 
 ###  **Average fare per ride and Average fare per driver**
 
@@ -61,7 +61,7 @@ According to the data, the total for each city type is:
 
 ### **Total weekly fare by city type**
 
-![pyber_fare_summary.png](analysis/pyber_fare_summary.png)
+![Pyber_fare_summary.png](analysis/PyBer_fare_summary.png)
 
 This is the total weekly fare of city types between the dates of **1/1/2019** and **4/28/2019**.
 
